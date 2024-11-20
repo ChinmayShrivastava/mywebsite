@@ -15,8 +15,6 @@ tags:
 description: A collection of random thoughts on the intersection of AI and mechanical design.
 ---
 
-## Table of contents
-
 A foundational model trained on mechanical data should aid the optimization process, resulting in designs using a lot less material and improving mechanical performance. I am fundamentally interested in exploring these capabilities of such a model to potentially avoid waste and improve intrinsic performance of these autonomously optimized mechanical designs.
 
 Over the last two years I have closely studied knowledge graphs and transformer models, fine tuned them for specific use cases involving but not only layout parsing for effective website automation, and learning recommendation. I have also built several applications involving effective knowledge graph based RAG, most notable of which was building an ontology of learning concepts to generate personalized learning recommendations trained on ~500K documents from across the internet. All combined, my applications were put in the hands of more than 1200 users and generated a revenue of ~25K USD.
