@@ -1,7 +1,7 @@
 ---
 title: Random thoughts
 author: Chinmay Shrivastava
-pubDatetime: 2024-11-23T04:06:31Z
+pubDatetime: 2024-11-20T04:06:31Z
 slug: random-thoughts-001
 featured: true
 draft: false
