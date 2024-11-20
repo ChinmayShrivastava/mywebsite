@@ -1,5 +1,5 @@
 ---
-title: Random thoughts
+title: Random thoughts 001
 author: Chinmay Shrivastava
 pubDatetime: 2024-11-20T04:06:31Z
 slug: random-thoughts-001
