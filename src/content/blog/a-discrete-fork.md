@@ -1,17 +1,13 @@
 ---
-title: The future of Invention
+title: How to Build a Great Product
 author: Chinmay Shrivastava
 pubDatetime: 2025-03-02T23:15:31Z
-slug: future-of-invention
+slug: how-to-build-a-great-product
 featured: true
 draft: true
 tags:
-  - invention
-  - future
-  - design
   - product
-  - ai
-description: What is good invention and a brief glimpse on how it is being redefined.
+description: Exploring the idea behind inventions and how good products are built from the ground up.
 ---
 
 # What makes for a great product?
