@@ -10,7 +10,7 @@ tags:
 description: Exploring the idea behind inventions and how good products are built from the ground up.
 ---
 
-# What makes for a great product?
+### What makes for a great product?
 
 When I think about a great product I think about many things. Has it impacted the society at large or does it atleast hold that potential?
 Is it defined by its ubiquitous nature or, one step ahead--its quotidianness? Maybe at a higher level, it doesn't have to be invisible,
@@ -20,7 +20,7 @@ more philosophical point of view, maybe it challenges the status quo as it impro
 users, or maybe it simply poses to do something outrageous and preposterous. We can agree that a great product can be defined in a
 few different ways, or possibly a lot. But something that remains constant, is that it shouldn't be easy to build.
 
-# Hypothesis: Great products are easy to build.
+### Hypothesis: Great products are easy to build.
 
 To prove our point, let's consider this opposite scenario--it's easy to build a great product.
 
@@ -41,7 +41,7 @@ Simply, good problems are hard to understand, leading to complexities in buildin
 understand and solve. This directly affects the ease with which a great product can be built. But what if you didn't really need the problem
 to be "good" for the product to be great?
 
-# Hypothesis: Great products can still be built from a bad problem.
+### Hypothesis: Great products can still be built from a bad problem.
 
 A bad problem, according to Rittel and Webber is either superficial, misdiagnosed or both. It is based in assumptions and can't be easily
 defended. So, to explore our new hypothesis, we need an answer to the following question:
@@ -54,7 +54,7 @@ engineering feat, yes, or can work like magic, but if it is not useful, it becom
 
 Having established the axiom that great products are hard to build and stem from good problems, an important question now becomes; How are great products found?
 
-# Good problem to a great product!
+### Good problem to a great product!
 
 Good problems are hard to find. But once you find one, how to go about creating a great product? Where does one even start?
 Can a great product be derived or does it always need to be novel? Can it be built in isolation?
@@ -92,7 +92,7 @@ uncertainity around getting to the perfect product in a few iterations, it's eas
 Iterations are useless without feedback and so the key to building a truly great product from a good problem is to start and refine the product
 through feedback. So if the key to building great products is iterations, what could possibly stop people from iterating?
 
-# Challenges to building a great product
+### Challenges to building a great product
 
 Iterating and collecting feedback isn't something new, it has been the norm among builders; good or great. But, if iterating was the key to
 great products, and if iterating is the norm, then, why aren't all the products great?
@@ -108,7 +108,7 @@ cycles. This one might severely limits the product timeline.
 
 While practical limitations exist in a individual/team's abilities to iterate, how come many teams still come through and build game changing products?
 
-# Accuracy v/s Iteration
+### Accuracy v/s Iteration
 
 To understand how people build great products, we need to further understand what effective teams do differently?, and how do they become effective in solving
 an uncertain problem?
@@ -136,7 +136,7 @@ Given that finding the best product requires you to optimize resource usage whil
 and inaccurate iterations. Inaccuracy here shouldn't be confused with lack of insights. It means sacrificing understanding granularities of the solution
 for performing faster exploration.
 
-# Many fast inaccurate iterations
+### Many fast inaccurate iterations
 
 Good actionable atomic steps that provide insights come in all shapes and sizes. Depending on your problem, it's a judgement best left to the reader. However,
 some rules could come in handy to ensure you aren't overutilizing resources while diminishing insights in return.
