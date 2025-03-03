@@ -4,7 +4,7 @@ author: Chinmay Shrivastava
 pubDatetime: 2025-03-02T23:15:31Z
 slug: how-to-build-a-great-product
 featured: true
-draft: true
+draft: false
 tags:
   - product
 description: Exploring the idea behind inventions and how good products are built from the ground up.
