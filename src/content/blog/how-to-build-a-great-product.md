@@ -12,17 +12,19 @@ description: Exploring the idea behind inventions and how good products are buil
 
 ### What makes for a great product?
 
-When I think about a great product I think about many things. Has it impacted the society at large or does it atleast hold that potential?
-Is it defined by its ubiquitous nature or, one step ahead--its quotidianness? Maybe at a higher level, it doesn't have to be invisible,
-but just bring a lot of value to its user; be it one or many. Maybe it leads to an overwhelmingly bright future, even if it means adverse
-effects in the present. If you ask an engineer, maybe it's the quality, or maybe it's the product's ability to not break often. From a
-more philosophical point of view, maybe it challenges the status quo as it improves on the past, maybe it is percieved as magic to first
-users, or maybe it simply poses to do something outrageous and preposterous. We can agree that a great product can be defined in a
-few different ways, or possibly a lot. But something that remains constant, is that it shouldn't be easy to build.
+When I think about a great product I think about many things. Has it impacted the society or does it atleast hold that potential?
+Is it defined by its ubiquitousness--or its quotidianness? Maybe it doesn't have to be invisible,
+just bring a lot of value to its user; one or many. Maybe it leads to a bright future, even justifying adverse
+effects in the present. Maybe it's marked by quality, if you ask an engineer--the product's ability to not break often. From a
+more philosophical view, maybe it challenges the status quo as it improves on the past, maybe it is percieved as magic to first
+users, or maybe it simply poses to do something outrageous. I think we can agree that a great product can be defined in a
+few ways, or possibly a lot. But, something that remains constant, is that a great products aren't easy to build.
+
+Let's prove this point through assuming the opposite.
 
 ### Hypothesis: Great products are easy to build.
 
-To prove our point, let's consider this opposite scenario--it's easy to build a great product.
+Let's consider this scenario--it's easy to build a great product.
 
 Empirically, here's what needs to happen to build a great product easily. The problem that it solves is a good problem, because bad problems
 either lead to bad products or no product at all. Further, the problem should be easy to identify, the solution to it should
